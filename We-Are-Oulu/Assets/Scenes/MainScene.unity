@@ -1296,6 +1296,10 @@ PrefabInstance:
       propertyPath: initialDatabase
       value: 
       objectReference: {fileID: 11400000, guid: 7ab4b1dd1c1ad6b47bd4d956d7b3887b, type: 2}
+    - target: {fileID: 11426072, guid: 58ac37417e60e534f91138088a3e6f70, type: 3}
+      propertyPath: displaySettings.dialogueUI
+      value: 
+      objectReference: {fileID: 1401545408871970, guid: 3275a4cc1b86c8c4592779f97f1d9fd1, type: 3}
     - target: {fileID: 11471062, guid: 58ac37417e60e534f91138088a3e6f70, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -2533,7 +2537,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lookAtCamera: 1
   flip: 1
-  offset: {x: 1.5, y: 1, z: 0}
+  offset: {x: 1.5, y: 2, z: 0}
 --- !u!1001 &1715997383
 PrefabInstance:
   m_ObjectHideFlags: 0
