@@ -2533,7 +2533,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lookAtCamera: 1
   flip: 1
-  offset: {x: 0, y: 0, z: 0}
+  offset: {x: 1.5, y: 1, z: 0}
 --- !u!1001 &1715997383
 PrefabInstance:
   m_ObjectHideFlags: 0
