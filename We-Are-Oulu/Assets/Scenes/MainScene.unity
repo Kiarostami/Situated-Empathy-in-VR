@@ -2457,7 +2457,7 @@ MonoBehaviour:
   allowBarksDuringConversations: 0
   skipBarkIfNoValidEntries: 0
   cacheBarkLines: 0
-  conversation: Conversation International 1
+  conversation: INT Conversation
   conversationConversant: {fileID: 1699393268}
   conversationActor: {fileID: 1656549757}
   startConversationEntryID: -1
