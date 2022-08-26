@@ -1,5 +1,6 @@
 # Situated-Empathy-in-VR
 ## We Are Oulu: Exploring Situated Empathy through a Communal Virtual Reality Experience
+### Abstract of the Project:
 
 Equality among all humans, regardless of ethnicity, language, or nationality, is an essential topic in every community and society. Immigrants' hardships as foreigners in another community are issues that not only contrast with humans' equality but also cause irreparable damage to foreigners and society. Nowadays, Virtual Reality (VR) as an alluring technology is a promising approach to communicating people's hardship experiences in a simulated situation to enhance others' empathy. It has even been called the ultimate empathy machine.
 
