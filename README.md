@@ -23,3 +23,10 @@ Ultimately, the thesis contributes to collecting and understanding the hardship 
 ### Papers:
 *We Are Oulu: Exploring Situated Empathy through a Communal Virtual Reality Experience* published in 2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW). [[Link]](https://ieeexplore.ieee.org/abstract/document/9757615)
 
+
+
+## Video:
+
+
+https://user-images.githubusercontent.com/48089001/190185425-5ba108c1-ce58-483f-8550-7413a3c2f448.mp4
+
